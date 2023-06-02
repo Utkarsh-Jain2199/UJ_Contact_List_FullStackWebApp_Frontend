@@ -30,5 +30,5 @@ Deployment:
 
 - Back-End: The back-end part of the application can be deployed on Render.com, a cloud platform that simplifies the deployment of web applications and APIs. Render supports various server-side programming languages like JavaScript (Node.js), Python, Ruby, and Java. It provides an easy-to-use interface for configuring and managing servers, ensuring the smooth operation of the back-end components of the Contacts Manager application.
 
-By leveraging Vercel and Render.com for front-end and back-end deployment respectively, you can take advantage of specialized hosting platforms that offer simplicity, scalability, and robustness for their respective components. This setup allows you to seamlessly deploy and manage both parts of the Contacts Manager Full Stack Web Application.
+By leveraging Vercel and Render.com for front-end and back-end deployment respectively, we can take advantage of specialized hosting platforms that offer simplicity, scalability, and robustness for their respective components. This setup allows us to seamlessly deploy and manage both parts of the Contacts Manager Full Stack Web Application.
 
